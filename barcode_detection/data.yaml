@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/YoloV8/model/train/images
+val: /content/drive/MyDrive/YoloV8/model/val/images
+
+nc: 1
+names: ['Barcode']
